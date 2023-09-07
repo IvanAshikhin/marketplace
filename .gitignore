@@ -1,0 +1,4 @@
+.idea
+venv
+*sqlte3
+__pycache__
